@@ -1,0 +1,8 @@
+azure.core
+azure-ai-documentintelligence
+streamlit
+azure-storage-blob
+python-dotenv
+
+#Todo: Instalar tudo na mesma pasta do requirement
+#Todo: pip install -r requirement.txt
