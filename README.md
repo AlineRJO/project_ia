@@ -1,5 +1,7 @@
+projeto IA usando Document Intelligent para reconhecer se o cartão de crédito 💳 é válido.
+
 Instruções:
-Ir no Portal Azure um agrupador de serviços e trabalhar com ele.
+Ir no Portal Azure criar um agrupador de serviços para trabalhar com ele.
 - criar um serviço storage
 - criar um Document intelligence
 
